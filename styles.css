@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.feature-box {
+    border-radius: 0.25rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 30px; /* Consistent spacing between boxes */
+}
+
+.section-classrooms {
+    background-color: thistle;
+    background-size: cover;
+    background-position: center;
+    color: white; /* Adjust text color for better readability */
+    
+}
+
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    color: #007bff; /* Bootstrap primary color */
+}
+
+.social-icons a:hover {
+    text-decoration: underline;
+}
